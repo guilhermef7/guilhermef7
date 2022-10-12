@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil! 🗿
 
  <div>
-   <a href="https://github.com/guilhermef7">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermef7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermef7&layout=compact&langs_count=6&theme=dracula"/>
+   <a href="https://github.com/soguimemso">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soguimesmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soguimesmo&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href = "guilhermo821@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/soguimesmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/guilhermef7/guilhermef7/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/soguimesmo/soguimesmo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
